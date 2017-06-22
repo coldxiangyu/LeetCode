@@ -7,7 +7,7 @@ package com.lxy.leetcode;
  */
 public class MaxProduct {
     public static int maxProduct(int[] nums) {
-
+        return 1;
     }
     public static void main(String[] args){
         int[] nums = {2,3,-2,4};
